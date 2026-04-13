@@ -1,0 +1,4 @@
+Inv No,Client Name,Workorder No,Issue Date,Due Date,Total Cost,Tax,Grand Total,Current Status
+INV-101,Alpha Corp,WO-2001,2024-03-01,2024-04-01,"₹25,000","₹4,500","₹29,500",Paid
+INV-102,Beta Ltd,WO-2002,2024-03-05,2024-04-05,"₹48,000","₹8,640","₹56,640",Pending
+INV-103,Gamma Inc,WO-2003,2024-03-10,2024-04-10,"₹12,500","₹2,250","₹14,750",Paid

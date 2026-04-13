@@ -1,0 +1,628 @@
+{
+  "master_attributes": [
+    {
+      "canonical": "Customer Name",
+      "variations": [
+        "Client Name",
+        "Customer",
+        "Client",
+        "Cust Name",
+        "Customer Full Name",
+        "Client Full Name",
+        "Account Name",
+        "Buyer Name",
+        "Bill To Name",
+        "Biling entity",
+        "Billing Entity",
+        "Billed To",
+        "Bill To"
+      ]
+    },
+    {
+      "canonical": "Order Number",
+      "variations": [
+        "Order No",
+        "Order no",
+        "Order ID",
+        "Order #",
+        "Sales Order Number",
+        "SO Number",
+        "SO No",
+        "SO#",
+        "Sale Order No",
+        "Sales Order No",
+        "Purchase Order Number",
+        "PO Number",
+        "PO No",
+        "Purchase Order No",
+        "PO#",
+        "Order Ref",
+        "Order Reference"
+      ]
+    },
+    {
+      "canonical": "Invoice Number",
+      "variations": [
+        "Inv No",
+        "Invoice No",
+        "Invoice #",
+        "Inv Number",
+        "Bill Number",
+        "Bill No",
+        "Invoice ID",
+        "Inv ID",
+        "Receipt Number",
+        "Invoice no"
+      ]
+    },
+    {
+      "canonical": "Order Date",
+      "variations": [
+        "Order date",
+        "Date of Order",
+        "Sale Date",
+        "Transaction Date",
+        "Date Ordered",
+        "Placed On",
+        "Booking Date",
+        "Issue Date",
+        "Date of Issue",
+        "Created On",
+        "Creation Date",
+        "Date Created"
+      ]
+    },
+    {
+      "canonical": "Requested Delivery Date",
+      "variations": [
+        "Req delivery date",
+        "Required Delivery Date",
+        "Delivery Date",
+        "Expected Delivery Date",
+        "Delivery Due Date",
+        "Ship By Date",
+        "Deliver By",
+        "Required Date",
+        "Needed By",
+        "Want Date",
+        "Promised Date",
+        "ETA",
+        "Requested Date",
+        "Due Date",
+        "Payment Due",
+        "Due On",
+        "Deadline",
+        "Date Due"
+      ]
+    },
+    {
+      "canonical": "Warehouse",
+      "variations": [
+        "warehouse",
+        "Warehouse Name",
+        "Warehouse Location",
+        "Fulfillment Center",
+        "DC",
+        "Distribution Center",
+        "Storage Location",
+        "Dispatch Location",
+        "Ship From",
+        "Pickup Location"
+      ]
+    },
+    {
+      "canonical": "Shipping Address",
+      "variations": [
+        "Shipping add",
+        "Ship To Address",
+        "Delivery Address",
+        "Ship To",
+        "Shipping Address",
+        "Deliver To",
+        "Delivery Location",
+        "Consignee Address",
+        "Drop Address",
+        "Recipient Address"
+      ]
+    },
+    {
+      "canonical": "Billing Entity",
+      "variations": [
+        "Biling entity",
+        "Billing Entity",
+        "Bill To Entity",
+        "Billed Entity",
+        "Bill To Company",
+        "Billing Company",
+        "Invoice To",
+        "Billing Party",
+        "Billed To Company",
+        "Legal Entity"
+      ]
+    },
+    {
+      "canonical": "Total Order Value",
+      "variations": [
+        "Tot ord",
+        "Total Order",
+        "Total Order Value",
+        "Order Total",
+        "Grand Total",
+        "Total Cost",
+        "Amount Total",
+        "Total Price",
+        "Net Amount",
+        "Final Amount",
+        "Invoice Total",
+        "Bill Total",
+        "Sum Total",
+        "Total Due",
+        "Total Amount",
+        "Order Amount"
+      ]
+    },
+    {
+      "canonical": "Shipping Cost",
+      "variations": [
+        "Shipping cost",
+        "Freight Cost",
+        "Delivery Charge",
+        "Shipping Charge",
+        "Freight Charge",
+        "Shipping Fee",
+        "Delivery Fee",
+        "Transport Cost",
+        "Logistics Cost",
+        "Courier Charge"
+      ]
+    },
+    {
+      "canonical": "Currency",
+      "variations": [
+        "currency",
+        "Currency Code",
+        "Curr",
+        "Curr Code",
+        "Invoice Currency",
+        "Payment Currency",
+        "Transaction Currency",
+        "Billing Currency"
+      ]
+    },
+    {
+      "canonical": "Sales Representative",
+      "variations": [
+        "Sales Rep",
+        "Sales Representative",
+        "Sales Person",
+        "Account Manager",
+        "Account Rep",
+        "Sales Executive",
+        "Sales Agent",
+        "Sales Associate",
+        "Relationship Manager",
+        "Rep Name",
+        "Assigned Rep"
+      ]
+    },
+    {
+      "canonical": "Priority Level",
+      "variations": [
+        "Priority level",
+        "Priority",
+        "Order Priority",
+        "Urgency Level",
+        "Urgency",
+        "Priority Status",
+        "Importance Level",
+        "Importance"
+      ]
+    },
+    {
+      "canonical": "Order Status",
+      "variations": [
+        "Order status",
+        "Order State",
+        "Current Order Status",
+        "Status of Order",
+        "Order Stage",
+        "Order Progress",
+        "Processing Status",
+        "Fulfillment Status"
+      ]
+    },
+    {
+      "canonical": "Payment Status",
+      "variations": [
+        "Payment stat",
+        "Payment Status",
+        "Pay Status",
+        "Payment State",
+        "Payment Condition",
+        "Pay Stat",
+        "Invoice Status",
+        "Settlement Status",
+        "Payment Stage"
+      ]
+    },
+    {
+      "canonical": "Payment Method",
+      "variations": [
+        "Payment method",
+        "Pay Method",
+        "Mode of Payment",
+        "Payment Mode",
+        "Payment Type",
+        "Pay Type",
+        "Method of Payment",
+        "Transaction Method"
+      ]
+    },
+    {
+      "canonical": "Tracking ID",
+      "variations": [
+        "Tracking Id",
+        "Tracking ID",
+        "Track ID",
+        "Tracking Number",
+        "Track No",
+        "Tracking No",
+        "Shipment ID",
+        "Consignment Number",
+        "AWB Number",
+        "AWB",
+        "Tracking Code"
+      ]
+    },
+    {
+      "canonical": "Delivery Status",
+      "variations": [
+        "Delivery stat",
+        "Delivery Status",
+        "Shipment Status",
+        "Dispatch Status",
+        "Delivery State",
+        "Shipping Status",
+        "Transit Status",
+        "Consignment Status"
+      ]
+    },
+    {
+      "canonical": "Tax Amount",
+      "variations": [
+        "Tax",
+        "GST",
+        "VAT",
+        "Tax Value",
+        "Tax Total",
+        "Sales Tax",
+        "Tax Charges",
+        "Taxation",
+        "Tax Applied"
+      ]
+    },
+    {
+      "canonical": "Unit Price",
+      "variations": [
+        "Price per Unit",
+        "Rate",
+        "Cost per Unit",
+        "Unit Cost",
+        "Per Unit Price",
+        "Item Price",
+        "Single Unit Price",
+        "Price/Unit"
+      ]
+    },
+    {
+      "canonical": "Quantity",
+      "variations": [
+        "Qty",
+        "Num Units",
+        "Number of Units",
+        "Units",
+        "Count",
+        "No. of Items",
+        "Item Count",
+        "Volume"
+      ]
+    },
+    {
+      "canonical": "Product Name",
+      "variations": [
+        "Item Name",
+        "Product",
+        "Item",
+        "Product Description",
+        "Item Description",
+        "Service Name",
+        "Material Name",
+        "Part Name"
+      ]
+    },
+    {
+      "canonical": "Vendor Name",
+      "variations": [
+        "Supplier Name",
+        "Vendor",
+        "Supplier",
+        "Provider",
+        "Seller",
+        "Manufacturer",
+        "Contractor Name",
+        "Service Provider"
+      ]
+    },
+    {
+      "canonical": "Workorder Number",
+      "variations": [
+        "WO Number",
+        "Work Order No",
+        "Workorder No",
+        "WO No",
+        "Work Order Number",
+        "WO#",
+        "Work Order ID",
+        "WO ID",
+        "WorkOrder Num",
+        "W.O. Number"
+      ]
+    },
+    {
+      "canonical": "Address",
+      "variations": [
+        "Location",
+        "Site Address",
+        "Street Address",
+        "Mailing Address",
+        "Place",
+        "Residence"
+      ]
+    },
+    {
+      "canonical": "Phone Number",
+      "variations": [
+        "Phone",
+        "Contact Number",
+        "Mobile",
+        "Tel",
+        "Telephone",
+        "Contact",
+        "Mobile Number",
+        "Cell",
+        "Ph No"
+      ]
+    },
+    {
+      "canonical": "Email Address",
+      "variations": [
+        "Email",
+        "E-mail",
+        "Mail",
+        "Email ID",
+        "Electronic Mail",
+        "Contact Email",
+        "Email Id"
+      ]
+    },
+    {
+      "canonical": "Employee ID",
+      "variations": [
+        "Emp ID",
+        "Employee Number",
+        "Staff ID",
+        "Worker ID",
+        "Personnel ID",
+        "Emp No",
+        "Employee Code",
+        "Staff Number"
+      ]
+    },
+    {
+      "canonical": "Department",
+      "variations": [
+        "Dept",
+        "Division",
+        "Business Unit",
+        "Team",
+        "Section",
+        "Group",
+        "Cost Center"
+      ]
+    },
+    {
+      "canonical": "Serial Number",
+      "variations": [
+        "Serial No",
+        "Sr No",
+        "Sr. No.",
+        "Serial",
+        "S/N",
+        "SN",
+        "Sequence Number",
+        "ID Number"
+      ]
+    },
+    {
+      "canonical": "Remarks",
+      "variations": [
+        "Notes",
+        "Comments",
+        "Observations",
+        "Additional Info",
+        "Note",
+        "Comment",
+        "Annotation",
+        "Narration"
+      ]
+    },
+    {
+      "canonical": "Status",
+      "variations": [
+        "Current Status",
+        "State",
+        "Stage",
+        "Condition",
+        "Progress",
+        "Phase",
+        "Work Status"
+      ]
+    },
+    {
+      "canonical": "Equipment ID",
+      "variations": [
+        "Equipment ID",
+        "Machine ID",
+        "machine_id",
+        "Asset ID",
+        "Equipment Number",
+        "Asset Number",
+        "Machine Code"
+      ]
+    },
+    {
+      "canonical": "Machine Type",
+      "variations": [
+        "Machine Type",
+        "machine_type",
+        "Equipment Type",
+        "Asset Type",
+        "Device Type"
+      ]
+    },
+    {
+      "canonical": "Model Number",
+      "variations": [
+        "Model No",
+        "Model Number",
+        "Model",
+        "Model ID",
+        "model_no",
+        "model_number"
+      ]
+    },
+    {
+      "canonical": "Maintenance Date",
+      "variations": [
+        "Maintenance Date",
+        "maintenance_date",
+        "Service Date",
+        "Last Service Date"
+      ]
+    },
+    {
+      "canonical": "Temperature (Celsius)",
+      "variations": [
+        "Temp Reading",
+        "Temperature",
+        "temperature_celsius",
+        "Temp",
+        "Heat Level",
+        "Temperature Reading"
+      ]
+    },
+    {
+      "canonical": "Pressure",
+      "variations": [
+        "PSI Reading",
+        "Pressure",
+        "pressure_reading",
+        "PSI",
+        "Pressure Level"
+      ]
+    },
+    {
+      "canonical": "Operator ID",
+      "variations": [
+        "Assigned Engineer",
+        "Engineer",
+        "Technician",
+        "Assigned Technician",
+        "operator_id",
+        "Operator"
+      ]
+    },
+    {
+      "canonical": "Defect Rate (%)",
+      "variations": [
+        "Defect Count",
+        "defect_count",
+        "defect_rate_percentage",
+        "Defects",
+        "Issue Count"
+      ]
+    },
+    {
+      "canonical": "Production Rate (Units/Hour)",
+      "variations": [
+        "production_rate_units_per_hour",
+        "Production Rate",
+        "Output Rate",
+        "Units per Hour"
+      ]
+    },
+    {
+      "canonical": "Maintenance Status",
+      "variations": [
+        "maintenance_status",
+        "Maintenance Status",
+        "Service Status"
+      ]
+    },
+    {
+      "canonical": "Vehicle Type",
+      "variations": [
+        "vehicle_type",
+        "Vehicle Type"
+      ]
+    },
+    {
+      "canonical": "Fuel Type",
+      "variations": [
+        "fuel_type",
+        "Fuel Type",
+        "fuel_typ"
+      ]
+    },
+    {
+      "canonical": "Engine Capacity (CC)",
+      "variations": [
+        "engine_capacity_cc",
+        "Engine Capacity",
+        "Engine CC"
+      ]
+    },
+    {
+      "canonical": "Mileage (KMPL)",
+      "variations": [
+        "mileage_kmpl",
+        "Mileage",
+        "Fuel Efficiency"
+      ]
+    },
+    {
+      "canonical": "Transmission",
+      "variations": [
+        "transmission",
+        "Gear Type",
+        "Transmission Type"
+      ]
+    },
+    {
+      "canonical": "Ownership Type",
+      "variations": [
+        "ownership_type",
+        "Ownership Type",
+        "ownership_typ"
+      ]
+    },
+    {
+      "canonical": "Insurance Status",
+      "variations": [
+        "insurance_status",
+        "Insurance Status",
+        "insurance_stat"
+      ]
+    }
+  ]
+}
